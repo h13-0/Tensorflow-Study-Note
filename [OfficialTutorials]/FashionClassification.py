@@ -143,4 +143,4 @@ for i in range(num_images):
 plt.tight_layout()
 plt.show()
 
-#model.save("FashionClassification")
+model.save("FashionClassification")
